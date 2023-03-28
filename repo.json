@@ -1,0 +1,8 @@
+{
+    "name": "Eddy's Repository",
+    "description": "Eddy's French Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/MustardChef/eddyarchive/master/plugins.json"
+    ]
+}

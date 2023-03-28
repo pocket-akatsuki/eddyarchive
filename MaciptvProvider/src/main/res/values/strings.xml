@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="iptvbox_info_title">What is Maciptv ?</string>
+	<string name="example_password">00:1A:79:XX:XX</string>
+	<string name="example_ip">http:\/\/exemple\-portal.com:8080\/c\/</string>
+    <string name="example_username">MyCoolIPTVname</string>
+    <string name="iptvbox_info_summary">Maciptv is an extension that will allow you to enjoy your IPTV accounts. Give the provider\'s portal url http:\/\/exemple.com\/c\/ and your mac 00:1A:79:XX:XX as password123. The default account may not be stable for you so please use another account.</string>
+    <string name="tags_info_title">Add other countries or categories</string>
+    <string name="tags_info_summary">By default you already have Arabic, English and French content. Fill the box \'127.0.0.1\' with your tags separated by \|. For example if you want all the categories that contain the word \'sport\' or \'sports\' and you also want the content from Canada (CA) and Italia (IT) then you can write: sport\|sports\|canada\|ca\|italia\|it </string>
+</resources>

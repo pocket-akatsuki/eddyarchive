@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="iptvbox_info_title">C\'est quoi Maciptv ?</string>
+    <string name="example_username">NomIPTV</string>
+    <string name="iptvbox_info_summary">Maciptv est un emulateur qui va vous permettre de profiter de vos comptes IPTV. Donner l\'url portail du fournisseur http:\/\/exemple.com\/c\/ et votre mac 00:1A:79:XX:XX:XX comme password123.</string>
+    <string name="iptvbox_url_pref">Addresse du serveur IPTV</string>
+	<string name="example_password">00:1A:79:XX:XX</string>
+	<string name="example_ip">http:\/\/exemple\-portal.com:8080\/c\/</string>
+	<string name="tags_info_title">Ajoutez d\'autres pays ou catégories</string>
+    <string name="tags_info_summary">Par défaut vous avez déja le contenu Arabe, Anglais et français. Dans la case \'127.0.0.1\', renseignez vos tags séparés par \| comme par exemple : Sport\|SportS\|vip\|canada\|ca\|brasil\|it\|italia\|france\|fr </string>
+</resources>
